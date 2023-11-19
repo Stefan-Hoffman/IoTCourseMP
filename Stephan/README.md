@@ -46,6 +46,4 @@ My name is Stephan Hoffman. I'm from Belgium Campus University in South Africa. 
 
 ## Eleventh day
 
-## Twelfth day
-
-## Additional things
+[Link](Stephan/Reflections/Reflection_day11)
